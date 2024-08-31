@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @khushiks2021
+Hi, I'm Khushi! 🌟
+I'm a 4th-year Materials Science student at IIT Kanpur. 📚✨ When I'm not studying materials, I'm coding, exploring machine learning, and diving into AI. 💻🤖
 
-
-<!---
-khushiks2021/khushiks2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Excited to connect and share this journey with you! 🚀💫
