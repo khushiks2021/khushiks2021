@@ -1,16 +1,16 @@
 # Hi, I'm Khushi! 🌟
-
-I’m **Khushi**, a 4th-year Materials Science student at **IIT Kanpur**.   
+ 
+Final year Materials Science student at **IIT Kanpur**.   
 Dive in and explore my projects and interests!
 
 ## What I Do 🎓
-Coding ☕💻  
+Coding 💻
 
-Web Development 🌐✨ 
+Web Development 🌐
 
-Machine Learning 🤖📈  
+Machine Learning 🤖 
 
-AI 🚀🔍
+AI 🚀
 
 ## 🌱 Always Learning
 I'm constantly exploring new technologies and pushing the boundaries of what's possible. Let's collaborate and turn ideas into reality!
