@@ -5,12 +5,8 @@ Dive in and explore my projects and interests!
 
 ## What I Do 🎓
 Coding 💻
-
-Web Development 🌐
-
-Machine Learning 🤖 
-
-AI 🚀
+ Web Development 🌐
+ Machine Learning 🤖 
 
 ## 🌱 Always Learning
 I'm constantly exploring new technologies and pushing the boundaries of what's possible. Let's collaborate and turn ideas into reality!
